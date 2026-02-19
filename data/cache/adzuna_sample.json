@@ -1,0 +1,306 @@
+[
+  {
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5604586110?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=1987BAFA00C450D81681802B9AE1D0A606CE5BC8",
+    "company": {
+      "display_name": "Red Oak Technologies",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Paris, Ile-de-France",
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5604586110",
+    "longitude": 2.344631,
+    "latitude": 48.863839,
+    "created": "2026-01-29T08:55:13Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwNDU4NjExMCIsInMiOiI2cC1vRFZyXzhCR2o3dGxILVJvbVhBIn0.jQPy9fxGYZUcdhWuTrKBAFUaoISNfY3ZZ5xe7Pvj4FY",
+    "title": "Data Analyst",
+    "salary_is_predicted": "0",
+    "description": "Since 1995, Red Oak Technologies has been a trusted partner in the tech industry, delivering innovative talent solutions that drive progress. We specialize in quickly acquiring and efficiently matching top-tier professional talent with clients in immediate need of highly skilled contract, permanent or project management based resources. “NOTE: If selected for this position, you are required to perform ALL work onsite, based on the client’s specified hybrid work schedule (currently onsite 3 days…"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Paris, Ile-de-France",
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ]
+    },
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Emplois Informatique"
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5571018189?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=808714E6E2A1129595F512BCCC88EC6C1AD50CD0",
+    "contract_time": "full_time",
+    "company": {
+      "display_name": "ALTEN",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": 2.344631,
+    "id": "5571018189",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnAtb0RWcl84QkdqN3RsSC1Sb21YQSIsImkiOiI1NTcxMDE4MTg5In0.b_ukxQQpTAbhUUfVQU4w6Q2Al7Cnf8zn1ri3fhacOhE",
+    "latitude": 48.863839,
+    "created": "2026-01-07T06:54:05Z",
+    "salary_is_predicted": "0",
+    "title": "Data Analyst H/F",
+    "description": "Dans un contexte de transformation digitale et de valorisation de la donnée, nous recherchons un Data Analyst afin d'accompagner nos clients dans l'exploitation, l'analyse et la mise en valeur de leurs données pour optimiser leur performance business. En tant que Data Analyst, vous jouerez un rôle clé dans la compréhension, la modélisation et l'interprétation des données. Vos responsabilités seront les suivantes : Analyse & exploitation de la donnée - Collecter, structurer et analyser des donné…"
+  },
+  {
+    "id": "5551697811",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 2.344631,
+    "redirect_url": "https://www.adzuna.fr/land/ad/5551697811?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=000252D5F85D3E168D2F1CAC582AC49A4042C5A7",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "company": {
+      "display_name": "5 Degrés",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Paris, Ile-de-France",
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ]
+    },
+    "title": "Data analyst",
+    "salary_is_predicted": "0",
+    "description": " CDI  Début : dès que possible  Paris  5 ans d'expérience 5 Degrés est une agence de conseil experte en Produit digital. Afin de répondre aux enjeux de nos clients et de leurs équipes, nous nous sommes organisés en 5 Practices qui couvrent l’ensemble de la chaine de création d’un Produit digital : Product Management Product Design Product Development Product Quality Product Data Nos collaborateurs interviennent chez des clients de tous secteurs d’activité, à la fois en BtoB, BtoC et BtoE, afin …",
+    "latitude": 48.863839,
+    "created": "2025-12-22T08:14:46Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MTY5NzgxMSIsInMiOiI2cC1vRFZyXzhCR2o3dGxILVJvbVhBIn0.Qhm4DkB4bKOjnx8Exs2biWASI9DUrZfdjfCRrzzr1Go"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5564430019",
+    "longitude": 2.344631,
+    "company": {
+      "display_name": "Cainiao Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5564430019?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=A99CF2CEB478CA2A206F636C481DF081CC6F4A3B",
+    "category": {
+      "tag": "unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown"
+    },
+    "location": {
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ],
+      "display_name": "Paris, Ile-de-France",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "title": "Data Analyst",
+    "description": "Responsibilities 1. Collaborate with the COE internal operations team (QC, sorting, linehaul, lastmile and pickup) to establish monitoring systems across different business areas, providing data support for internal insights and DSP management. 2. Participate in business projects by conducting in-depth analysis, assist in developing data-driven strategies, and contribute to achieving project goals 3. Collaborate with the Middle team, operation teams, product and technical teams etc to summarize…",
+    "salary_is_predicted": "0",
+    "created": "2026-01-02T08:36:21Z",
+    "latitude": 48.863839,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnAtb0RWcl84QkdqN3RsSC1Sb21YQSIsImkiOiI1NTY0NDMwMDE5In0.5YsaFBi2mHviqpFARgIK02K5vSNJB7CVA-adWAuBnnM"
+  },
+  {
+    "location": {
+      "display_name": "Paris, Ile-de-France",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5558156949?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=3EB8C5B7E0E88F702CB00EBAEF649F0292F61E4A",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Unknown",
+      "tag": "unknown"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "SOFTEAM"
+    },
+    "longitude": 2.344631,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5558156949",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1ODE1Njk0OSIsInMiOiI2cC1vRFZyXzhCR2o3dGxILVJvbVhBIn0.IwGF_EGOsZGUP4QtTI0fOXPHxf2Lm9wCc0D0s7UXHOY",
+    "latitude": 48.863839,
+    "created": "2025-12-28T08:12:14Z",
+    "description": "Vous évoluez dans le domaine de la Data et souhaitez intégrer un leader de la transformation numérique spécialisé dans les secteurs de la Banque, du Luxe, de l'Assurance, de la Finance, de l'Energie et la possibilité d'évoluer au sein du Groupe Docaposte ! Softeam est labellisé \"HappyIndex® AtWork \" 2022 pour la 5ème année consécutive ! Nos collaborateurs travaillent en « mode projet » et accompagnent de bout en bout nos clients sur des problématiques de Gouvernance. CE QUE NOUS RECHERCHONS Dat…",
+    "title": "Data Analyst F/H",
+    "salary_is_predicted": "0"
+  },
+  {
+    "title": "Data Analyst (F/H)",
+    "salary_is_predicted": "0",
+    "description": "Depuis plus de 25 ans, Proxiad a forgé son expertise en innovation au service de la transformation digitale de ses clients. La solidité de notre méthodologie, accumulée au fil des années, nous a permis d'accompagner nos clients à travers l'ensemble du cycle de vie de leurs projets. Descriptif de l'opportunité :  Nous sommes actuellement en quête d'un(e) Data Analyst (H/F)  Contexte : Dans le cadre de projets d’optimisation et de pilotage des activités d’assurance, la mission consiste à préparer…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NzU2MDY0OCIsInMiOiI2cC1vRFZyXzhCR2o3dGxILVJvbVhBIn0.c_u-QM368UaBciH2Z-CJtP1NPESsomAbyHJbbIH8izk",
+    "created": "2026-01-16T08:23:19Z",
+    "latitude": 48.863839,
+    "longitude": 2.344631,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5587560648",
+    "location": {
+      "display_name": "Paris, Ile-de-France",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ]
+    },
+    "company": {
+      "display_name": "Proxiad",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5587560648?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=FEC363C5BA76CAC846274973B313833F2CFCDB09",
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    }
+  },
+  {
+    "category": {
+      "label": "Unknown",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "unknown"
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5598617465?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=90CB3013056295F1906BEBD8BA2678E79A1D26C8",
+    "company": {
+      "display_name": "Ubisoft2",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "display_name": "Paris, Ile-de-France",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ]
+    },
+    "id": "5598617465",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": 2.344631,
+    "latitude": 48.863839,
+    "created": "2026-01-24T09:19:03Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5ODYxNzQ2NSIsInMiOiI2cC1vRFZyXzhCR2o3dGxILVJvbVhBIn0.Shpf6Y5yz0l2JEgXb8DF5te5oOhDMycXJckKqLk8esg",
+    "salary_is_predicted": "0",
+    "title": "Data Analyst H/F",
+    "description": "En nous rejoignant sur ce poste, vous intégrerez une équipe multidisciplinaire (data, programmation, game & narrative design, animation, etc.), guidée par une question simple et ambitieuse : parmi toutes les possibilités offertes par l'IA générative, lesquelles sont réellement intéressantes et fun pour le gameplay ? L'équipe a pour mission de tester de nouvelles expériences auprès de joueurs et joueuses, et d'équiper les créateur·rices pour imaginer des interactions plus dynamiques, immersives …"
+  },
+  {
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Emplois Informatique"
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5551576954?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=989AA9F49902CEDD9F41F7AFD6B80EAC972FCACC",
+    "contract_time": "full_time",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Mistralai"
+    },
+    "location": {
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ],
+      "display_name": "Paris, Ile-de-France",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5551576954",
+    "longitude": 2.344631,
+    "latitude": 48.863839,
+    "created": "2025-12-22T04:58:47Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU1MTU3Njk1NCIsInMiOiI2cC1vRFZyXzhCR2o3dGxILVJvbVhBIn0.hjtXoGFBTmlfJPNjXGKnTME-lNzgO_C6tF4pqdcfFy4",
+    "salary_is_predicted": "0",
+    "title": "Data Analyst H/F",
+    "description": "About Mistral At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether on-premises or in cloud environments. Our offerings include le Chat, the AI assistant for life and work. …"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnAtb0RWcl84QkdqN3RsSC1Sb21YQSIsImkiOiI1NTg5MDA5NzgyIn0.2n9Wil-IaWP24ES_FLAG1sZ1uS3y4clmqb2eesnW0Hw",
+    "latitude": 48.863839,
+    "created": "2026-01-17T08:07:00Z",
+    "description": "Pioneer of online flash sales since 2001 and key player in European e-commerce, Veepee collaborates with over 7,000 brands to offer highly discounted products available for a limited time. Operating across various sectors, including fashion, home, wine, travel or beauty Veepee achieved a turnover of 3.3 billion euros incl. VAT in 2024 and employs 5,000 staff members across 10 countries. As a Data Analyst, you will join our Central Data Organization, which is directly in contact with the differe…",
+    "title": "Data Analyst H/F",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Paris, Ile-de-France",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5589009782?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=3B25D9BD893132351B65ADA2C51C1CDA223A5570",
+    "category": {
+      "label": "Emplois Vente",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Veepee"
+    },
+    "longitude": 2.344631,
+    "id": "5589009782",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "salary_min": 45000,
+    "location": {
+      "area": [
+        "France",
+        "Ile-de-France",
+        "Paris"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Paris, Ile-de-France"
+    },
+    "company": {
+      "display_name": "Consort Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_max": 50000,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Emplois Informatique",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.fr/land/ad/5442681275?se=6p-oDVr_8BGj7tlH-RomXA&utm_medium=api&utm_source=22d36fc6&v=1999F01A11C635746833FF261DC477C8C6B99E90",
+    "longitude": 2.344631,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5442681275",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ0MjY4MTI3NSIsInMiOiI2cC1vRFZyXzhCR2o3dGxILVJvbVhBIn0.RnqaKQGASIfS1A7FqQoSxS0aygyupIl2dLDAp-3AcMo",
+    "created": "2025-10-11T12:12:18Z",
+    "latitude": 48.863839,
+    "title": "Data Analyst CRM H/F",
+    "salary_is_predicted": "0",
+    "description": "Chaque moment compte. Surtout ceux que vous vivez à fond. Bienvenue chez Consort Group. Consort Group, accompagne depuis plus de 30 ans les entreprises dans la valorisation de leurs données et infrastructures. Elle s'appuie sur deux leaders, Consortis et Consortia, et place l'humain et la responsabilité sociétale au coeur de ses valeurs. C'est votre future équipe Les équipes de ConsortIA, sont des acteurs de référence de la Data, du Développement Digital et de l'Ingénierie Média. En combinant c…"
+  }
+]
