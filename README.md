@@ -203,6 +203,6 @@ Architecture : JSON-RPC / MCP
 ---
 
 # 👨‍💻 Auteur
-Mevlüt Cakin — M2 Big Data & BI  
+Mevlüt Cakin et Salma El Absodi — M2 Big Data & BI  
 GitHub : WalterWhite75
 
